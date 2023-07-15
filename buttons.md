@@ -1,5 +1,7 @@
 ## Sequência de botões
 
+Obs: Algumas situações, as posições são alteradas em 1 ou duas pra baixo (ainda não descobri o porquê)
+
 1. Up: [7] = 0
 2. Down: [7] = 4
 3. Left: [7] = 6
